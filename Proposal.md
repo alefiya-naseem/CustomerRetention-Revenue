@@ -48,3 +48,6 @@ More insight oriented extensions can be added to the web app over time. Our aim 
 ## Preliminary Results
 
 [Click here to see the notebook containing the preliminary analysis](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/Notebooks/dataviz_prelim.ipynb)
+
+## References
+https://app.scholarjet.com/challenges/wayfairdata
