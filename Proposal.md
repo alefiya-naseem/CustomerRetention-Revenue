@@ -10,7 +10,6 @@ As a data-driven company, Wayfair ensures that their B2B customers receive best-
 In many of their departments including marketing, sales, and operations teams to guide business decisions. 
 Often times, business vendors bring in most profits and it becomes really important for a company to personalize efforts for them and retain them and take appropriate measures if they are not retained.
 
-
 Keeping this in mind, Wayfair hosted a challenge on the ScholarJet website this year for which they released their B2B customer interaction dataset that will be used here. The goal of the challenge was to build a model to predict customer behavior for Wayfair. The goal of our project is to gain insights from the business customer data like customer information,sales call records, purchase history etc. and build predictive models to work on the following problems: 
 
 1. B2B customer conversion (classification): Whether a B2B customer will purchase or not in the next 30 days
@@ -50,3 +49,5 @@ Our project will take place over the entire semester. We aim to complete the dat
 More insight oriented extensions can be added to the web app over time. Our aim is to not just take care of high retention and revenue prediction accuracies but also to drive insights from these predictions.
 
 ## Preliminary Results
+
+[Click here to see the notebook containing the preliminary analysis](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/Notebooks/dataviz_prelim.ipynb)
