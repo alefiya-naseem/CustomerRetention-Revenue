@@ -1,11 +1,11 @@
-##Title
-#Using Data to Bring Customers Home
+## Title
+# Using Data to Bring Customers Home
 
-##Authors
+## Authors
 1. Devanshi Gariba
 2. Alefiya Naseem
 
-##Summary
+## Summary
 Wayfair is an e-commerce retailer that sells furniture and other home goods. While they sell to individual consumers, they also have a large B2B (Business-to-Business) division that sells to business customers such as interior design firms, contractors, and hotels.
 As a data-driven company, they ensure that their B2B customers receive best-in-class service by leveraging data science models to predict customer needs and purchasing patterns. They primarily aim to reinvent the way the world shops for home and utilizes machine -learning models in many of their departments including marketing, sales, and operations teams to guide business decisions. Often times, business vendors bring in most profits and it becomes really important for a company to personalize efforts for them and retain them and take appropriate measures if they are not retained.
 Keeping this in mind, Wayfair hosted a challenge on the ScholarJet website this year for which they released their B2B customer interaction dataset that will be used here. The goal of the challenge was to build a model to predict customer behavior for Wayfair. The goal of our project is to gain insights from the business customer data like customer information,sales call records, purchase history etc. and build predictive models to work on the following problems: 
@@ -16,20 +16,20 @@ Keeping this in mind, Wayfair hosted a challenge on the ScholarJet website this 
 ## Data
 
 1. Training data 
-1. This data includes 181 features and two outcome variables:
-1. convert_30 (boolean) indicating retention
-2. revenue_30 (numeric) indicating revenue
-2. Customer
-3. Enrollment questions
-4. Order
-5. Satisfaction
-6. Visit
-7. Search
-8. SKU
-9. Task
-10. Call
-11. Email-BAM
-12. Email-Wayfair
+	1. This data includes 181 features and two outcome variables:
+		1. convert_30 (boolean) indicating retention
+		2. revenue_30 (numeric) indicating revenue
+	2. Customer
+	3. Enrollment questions
+	4. Order
+	5. Satisfaction
+	6. Visit
+	7. Search
+	8. SKU
+	9. Task
+	10. Call
+	11. Email-BAM
+	12. Email-Wayfair
 
 2. Holdout data
 This data includes features but not outcome variables for a different set of customers. You will use these features to predict the missing outcome variables.
