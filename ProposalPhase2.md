@@ -52,5 +52,5 @@ More insight oriented extensions can be added to the web app over time. Our aim 
 
 ## References
 
-[Github link](https://github.com/alefiya-naseem/CustomerRetention-Revenue)
+[Github link](https://github.com/alefiya-naseem/CustomerRetention-Revenue)  
 [Wayfair data link](https://app.scholarjet.com/challenges/wayfairdata)
