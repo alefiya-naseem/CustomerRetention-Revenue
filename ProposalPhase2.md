@@ -48,8 +48,17 @@ More insight oriented extensions can be added to the web app over time. Our aim 
 
 ## Preliminary Results
 
+[Click here to see the notebook containing the preliminary analysis](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/Notebooks/dataviz_prelim.ipynb)
 
+Some other EDA results that we obtained are:
 
+![](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/images/Class%20distribution.png)
+
+The figure above shows the distribution of classes for some categorical features of B2B customers who bought something in the past 30 days and B2B customers who did not buy(convert) something in the past 30 days.
+ 
+![](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/images/Numeric%20features.png)
+
+The figure above shows the distribution of classes for some important numerical features of B2B customers who bought something in the past 30 days and B2B customers who did not buy(convert) something in the past 30 days.
 ## References
 
 [Github link](https://github.com/alefiya-naseem/CustomerRetention-Revenue)  
