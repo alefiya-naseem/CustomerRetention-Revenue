@@ -48,6 +48,8 @@ More insight oriented extensions can be added to the web app over time. Our aim 
 
 ## Preliminary Results
 
+Phase-1 consists of data cleaning & processing, handling class imbalance problem ,identification of important feature-sets applying different feature-selection techniques and applying relevant modelling techniques on them. Essentially, all of our results from phase-1 forms as our base and will help us in moving forward. 
+
 [Click here to see the notebook containing the preliminary analysis](https://github.com/alefiya-naseem/CustomerRetention-Revenue/blob/master/Notebooks/dataviz_prelim.ipynb)
 
 Some other EDA results that we obtained are:
