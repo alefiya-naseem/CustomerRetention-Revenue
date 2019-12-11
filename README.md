@@ -1,4 +1,4 @@
-# A Business Case-study: Using Data to Bring Customers Home
+# A Business Case Study: Using Data to Bring Customers Home
 
 ## Introduction
 
