@@ -1,2 +1,12 @@
-# CustomerRetention-Revenue
-Building a model to predict customer behavior
+# A Business Case-study: Using Data to Bring Customers Home
+
+## Introduction
+
+The game of online retail and e-commerce has changed a lot over the past few years. Offline purchase and local stores have been replaced by hosting online stores. This paper explores a business case-study of one such e-commerce company: Wayfair. Wayfair is an e-commerce retailer that sells furniture and other home goods. While they sell to individual consumers, they also have a large B2B (Business-to-Business) division that sells to business customers such as interior design firms, contractors, hotels and universities. 
+As a data-driven company, they ensure that their B2B customers receive best-in-class service by leveraging data science models to predict customer needs and purchasing patterns. They primarily aim to reinvent the way the world shops for home and utilizes machine learning models heavily in many of their departments including marketing, sales, and operations teams to guide business decisions. Often times, business vendors bring in most profits and it becomes really important for a company to personalize efforts for them and retain them and take appropriate measures if they are not retained. 
+
+Keeping this in mind, Wayfair hosted a challenge this year for which they released their B2B customer interaction dataset that will be used here. The goal of the challenge was to build a model to predict customer behavior for Wayfair. The goal of our project is to gain insights from the business customer data like customer information, sales call records, purchase history etc. and build predictive models to work on the following problems:
+* B2B customer conversion (classification): Whether a B2B customer will purchase or not in the next 30 days
+* B2B customer expected revenue (regression): How much a B2B customer will spend in the next 30 days. 
+
+Our case-study focuses on certain research questions that help us reach towards our final goal for prediction of B2B customer conversion and the expected revenue. However, one of our main goals is to be able to focus on the interpretable and explorable approximations of Black Box machine learning frameworks. Oftentimes, we have high dimensional customer interaction datasets to work with and the goal ultimately shifts from understanding the customer behaviour analytically to prediction problems that are mostly handled by the black-box algorithms. Our work heavily explores multiple feature selection techniques and identification of different feature subsets. Important feature subsets can help in analytically understanding the customer behavior. Identification of actionable features associated with customer retention can mainly help businesses to turn their non-retaining customers into retaining customers if we can identify the main features for them and use business strategies around those features. 
